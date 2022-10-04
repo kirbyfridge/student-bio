@@ -1,0 +1,35 @@
+body {
+    background-color: #e9bec5;
+    font-family: 'Poppins';
+    margin-left: 36em;
+    margin-right: 36em;
+  }
+
+.lesson {
+    background-color: white;
+    padding: 2em;
+  }
+  
+  .title {
+    color: #4373b1;
+  }
+  
+  #email {
+    background-color: #c15473;
+  }
+  
+  #github {
+    background-color: #b04058;
+  }
+  
+  #portfolio {
+    background-color: #88222f;
+  }
+
+  a:link {
+    color: darkgray;
+  }
+  
+  a:visited {
+    color: black;
+  }
