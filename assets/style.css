@@ -5,6 +5,14 @@ body {
     margin-right: 36em;
   }
 
+header {
+    font-style: italic;
+}
+
+p {
+    font-size:15px;
+}
+
 .lesson {
     background-color: white;
     padding: 2em;
